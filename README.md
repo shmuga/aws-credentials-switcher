@@ -2,7 +2,7 @@
 
 GUI tool for switching between different aws credentials.
 
-Download app for [macOS]()
+Download app for [macOS](https://github.com/shmuga/aws-credentials-switcher/releases/download/0.1.0/AWS.Credentials.Switcher.macOS.zip)
 
 # Instructions
 
