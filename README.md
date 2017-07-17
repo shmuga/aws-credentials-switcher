@@ -1,5 +1,7 @@
 # AWS Credentials Switcher  <img src="http://i.imgur.com/SR63kq7.png?1" title="source: imgur.com" />
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shmuga/aws-credentials-switcher.svg)](https://greenkeeper.io/)
+
 #### Notice: app is in alpha, use this app at one's own risk. Dump credentials before usage.
 
 GUI tool for switching between different aws credentials.
